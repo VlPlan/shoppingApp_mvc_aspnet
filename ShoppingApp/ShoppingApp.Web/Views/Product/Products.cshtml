@@ -1,0 +1,50 @@
+﻿@model List<ProductViewModel>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>Products</h1>
+
+<div class="products">
+    @foreach (var product in Model)
+    {
+        <div class="thumbnail">
+            <img class="product-image" src="~/images/Products/product-@(product.Id).png" alt="..." />
+            <div class="caption">
+                <input asp-for="@product.Id" hidden />
+                <h3>@product.Name</h3>
+                <h4>@product.Description</h4>
+                <h5>@product.Price $</h5>
+                <p><button value="@product.Id" class="btn btn-primary productItem" role="button">Add to cart</button></p>
+            </div>
+        </div>
+    }
+</div>
+
+<script>
+    let products = document.getElementsByClassName("products")[0];
+    console.log(products);
+    products.addEventListener("click", function (e) {
+        e.stopPropagation();
+        let target = e.target;
+        console.log(target);
+
+        let targetId = target.classList.contains("productItem") ? target.value : null;
+        console.log(targetId);
+        if (targetId != null) {
+            fetch("/Order/AddProduct?productId=" + targetId, {
+                method: "post",
+            })
+            //    .then(res => { 
+            //    let data = res;
+
+            //    fetch("/Order/GetMessageResult?result=" + data);
+            //});
+        }
+    });
+
+</script>
+
+
+
+

@@ -1,0 +1,8 @@
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.WebModels`\bin\Debug\netcoreapp2.1\ShoppingApp.WebModels.deps.json
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.WebModels`\bin\Debug\netcoreapp2.1\ShoppingApp.WebModels.dll
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.WebModels`\bin\Debug\netcoreapp2.1\ShoppingApp.WebModels.pdb
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\ShoppingApp.WebModels.csproj.CoreCompileInputs.cache
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\ShoppingApp.WebModels.AssemblyInfoInputs.cache
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\ShoppingApp.WebModels.AssemblyInfo.cs
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\ShoppingApp.WebModels.dll
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.WebModels`\obj\Debug\netcoreapp2.1\ShoppingApp.WebModels.pdb

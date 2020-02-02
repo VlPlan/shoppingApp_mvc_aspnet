@@ -1,0 +1,16 @@
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\ShoppingApp.Services.csprojAssemblyReference.cache
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\ShoppingApp.Services.csproj.CoreCompileInputs.cache
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\ShoppingApp.Services.AssemblyInfoInputs.cache
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\ShoppingApp.Services.AssemblyInfo.cs
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.Services.deps.json
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.Services.dll
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.Services.pdb
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.DataAccess.dll
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.Domain.dll
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.WebModels.dll
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.DataAccess.pdb
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.Domain.pdb
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\ShoppingApp.WebModels.pdb
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\ShoppingApp.Services.csproj.CopyComplete
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\ShoppingApp.Services.dll
+D:\VladP_Apps\AspNetApps\LamazonApp\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\ShoppingApp.Services.pdb
